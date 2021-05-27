@@ -1,2 +1,3 @@
 # Simple-Blackjack
-Project for school
+-Have Python installed
+-Just open the py file
